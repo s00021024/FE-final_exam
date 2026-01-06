@@ -1,0 +1,1140 @@
+{
+  "cars": [
+    {
+      "id": "1",
+      "brand": "Fiat",
+      "model": "Panda",
+      "year": 2020,
+      "mileage_km": 35000,
+      "price": 11500,
+      "is_available": true,
+      "transmission": "Manual",
+      "fuel_type": "hybrid",
+      "image_url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/fiat.png"
+    },
+    {
+      "id": "2",
+      "brand": "Ford",
+      "model": "Focus",
+      "year": 2019,
+      "mileage_km": 45000,
+      "price": 13500,
+      "is_available": true,
+      "transmission": "Manual",
+      "fuel_type": "Diesel",
+      "image_url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/ford.png"
+    },
+    {
+      "id": "3",
+      "brand": "Volkswagen",
+      "model": "Golf",
+      "year": 2021,
+      "mileage_km": 22000,
+      "price": 19500,
+      "is_available": true,
+      "transmission": "Automatic",
+      "fuel_type": "Petrol",
+      "image_url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/volkswagen.png"
+    },
+    {
+      "id": "4",
+      "brand": "Toyota",
+      "model": "Yaris",
+      "year": 2018,
+      "mileage_km": 60000,
+      "price": 10500,
+      "is_available": false,
+      "transmission": "Manual",
+      "fuel_type": "Hybrid",
+      "image_url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/toyota.png"
+    },
+    {
+      "id": "5",
+      "brand": "Renault",
+      "model": "Clio",
+      "year": 2020,
+      "mileage_km": 30000,
+      "price": 12500,
+      "is_available": true,
+      "transmission": "Manual",
+      "fuel_type": "Petrol",
+      "image_url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/renault.png"
+    },
+    {
+      "id": "6",
+      "brand": "Audi",
+      "model": "A3",
+      "year": 2022,
+      "mileage_km": 15000,
+      "price": 25500,
+      "is_available": true,
+      "transmission": "Automatic",
+      "fuel_type": "Diesel",
+      "image_url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/audi.png"
+    },
+    {
+      "id": "7",
+      "brand": "BMW",
+      "model": "1 Series",
+      "year": 2021,
+      "mileage_km": 20000,
+      "price": 26500,
+      "is_available": false,
+      "transmission": "Automatic",
+      "fuel_type": "Petrol",
+      "image_url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/bmw.png"
+    },
+    {
+      "id": "8",
+      "brand": "Hyundai",
+      "model": "i20",
+      "year": 2019,
+      "mileage_km": 38000,
+      "price": 12000,
+      "is_available": true,
+      "transmission": "Manual",
+      "fuel_type": "Petrol",
+      "image_url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/hyundai.png"
+    },
+    {
+      "id": "9",
+      "brand": "Kia",
+      "model": "Rio",
+      "year": 2020,
+      "mileage_km": 34000,
+      "price": 11000,
+      "is_available": true,
+      "transmission": "Manual",
+      "fuel_type": "Petrol",
+      "image_url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/kia.png"
+    },
+    {
+      "id": "10",
+      "brand": "Nissan",
+      "model": "Micra",
+      "year": 2018,
+      "mileage_km": 50000,
+      "price": 9500,
+      "is_available": false,
+      "transmission": "Manual",
+      "fuel_type": "Petrol",
+      "image_url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/nissan.png"
+    },
+    {
+      "id": "11",
+      "brand": "Peugeot",
+      "model": "208",
+      "year": 2021,
+      "mileage_km": 21000,
+      "price": 9500,
+      "is_available": true,
+      "transmission": "Automatic",
+      "fuel_type": "Petrol",
+      "image_url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/peugeot.png"
+    },
+    {
+      "id": "12",
+      "brand": "Citroën",
+      "model": "C3",
+      "year": 2017,
+      "mileage_km": 65000,
+      "price": 8500,
+      "is_available": true,
+      "transmission": "Manual",
+      "fuel_type": "Diesel",
+      "image_url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/citroen.png"
+    },
+    {
+      "id": "13",
+      "brand": "Opel",
+      "model": "Corsa",
+      "year": 2020,
+      "mileage_km": 33000,
+      "price": 13000,
+      "is_available": true,
+      "transmission": "Manual",
+      "fuel_type": "Petrol",
+      "image_url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/opel.png"
+    },
+    {
+      "id": "14",
+      "brand": "Seat",
+      "model": "Ibiza",
+      "year": 2019,
+      "mileage_km": 41000,
+      "price": 14000,
+      "is_available": true,
+      "transmission": "Manual",
+      "fuel_type": "Petrol",
+      "image_url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/seat.png"
+    },
+    {
+      "id": "15",
+      "brand": "Skoda",
+      "model": "Fabia",
+      "year": 2018,
+      "mileage_km": 55000,
+      "price": 9000,
+      "is_available": false,
+      "transmission": "Manual",
+      "fuel_type": "Diesel",
+      "image_url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/skoda.png"
+    },
+    {
+      "id": "16",
+      "brand": "Mercedes",
+      "model": "A-Class",
+      "year": 2022,
+      "mileage_km": 12000,
+      "price": 31500,
+      "is_available": true,
+      "transmission": "Automatic",
+      "fuel_type": "Petrol",
+      "image_url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/mercedes-benz.png"
+    },
+    {
+      "id": "17",
+      "brand": "Volvo",
+      "model": "V40",
+      "year": 2017,
+      "mileage_km": 70000,
+      "price": 14500,
+      "is_available": true,
+      "transmission": "Automatic",
+      "fuel_type": "Diesel",
+      "image_url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/volvo.png"
+    },
+    {
+      "id": "18",
+      "brand": "Mazda",
+      "model": "2",
+      "year": 2019,
+      "mileage_km": 36000,
+      "price": 12500,
+      "is_available": true,
+      "transmission": "Manual",
+      "fuel_type": "Petrol",
+      "image_url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/mazda.png"
+    },
+    {
+      "id": "19",
+      "brand": "Honda",
+      "model": "Jazz",
+      "year": 2020,
+      "mileage_km": 25000,
+      "price": 16500,
+      "is_available": true,
+      "transmission": "Automatic",
+      "fuel_type": "Hybrid",
+      "image_url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/honda.png"
+    },
+    {
+      "id": "20",
+      "brand": "Suzuki",
+      "model": "Swift",
+      "year": 2021,
+      "mileage_km": 20000,
+      "price": 15500,
+      "is_available": true,
+      "transmission": "Manual",
+      "fuel_type": "Petrol",
+      "image_url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/suzuki.png"
+    },
+    {
+      "id": "21",
+      "brand": "Fiat",
+      "model": "500",
+      "year": 2018,
+      "mileage_km": 48000,
+      "price": 9000,
+      "is_available": false,
+      "transmission": "Manual",
+      "fuel_type": "Petrol",
+      "image_url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/fiat.png"
+    },
+    {
+      "id": "22",
+      "brand": "Ford",
+      "model": "Fiesta",
+      "year": 2019,
+      "mileage_km": 39000,
+      "price": 11500,
+      "is_available": true,
+      "transmission": "Manual",
+      "fuel_type": "Petrol",
+      "image_url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/ford.png"
+    },
+    {
+      "id": "23",
+      "brand": "Volkswagen",
+      "model": "Polo",
+      "year": 2021,
+      "mileage_km": 18000,
+      "price": 18500,
+      "is_available": true,
+      "transmission": "Automatic",
+      "fuel_type": "Petrol",
+      "image_url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/volkswagen.png"
+    },
+    {
+      "id": "24",
+      "brand": "Toyota",
+      "model": "Corolla",
+      "year": 2020,
+      "mileage_km": 26000,
+      "price": 20500,
+      "is_available": true,
+      "transmission": "Automatic",
+      "fuel_type": "Hybrid",
+      "image_url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/toyota.png"
+    },
+    {
+      "id": "25",
+      "brand": "Renault",
+      "model": "Megane",
+      "year": 2017,
+      "mileage_km": 62000,
+      "price": 9500,
+      "is_available": false,
+      "transmission": "Manual",
+      "fuel_type": "Diesel",
+      "image_url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/renault.png"
+    },
+    {
+      "id": "26",
+      "brand": "Audi",
+      "model": "A1",
+      "year": 2022,
+      "mileage_km": 14000,
+      "price": 23500,
+      "is_available": true,
+      "transmission": "Automatic",
+      "fuel_type": "Petrol",
+      "image_url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/audi.png"
+    },
+    {
+      "id": "27",
+      "brand": "BMW",
+      "model": "2 Series",
+      "year": 2021,
+      "mileage_km": 22000,
+      "price": 29500,
+      "is_available": true,
+      "transmission": "Automatic",
+      "fuel_type": "Diesel",
+      "image_url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/bmw.png"
+    },
+    {
+      "id": "28",
+      "brand": "Hyundai",
+      "model": "i30",
+      "year": 2018,
+      "mileage_km": 54000,
+      "price": 10500,
+      "is_available": false,
+      "transmission": "Manual",
+      "fuel_type": "Petrol",
+      "image_url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/hyundai.png"
+    },
+    {
+      "id": "29",
+      "brand": "Kia",
+      "model": "Ceed",
+      "year": 2019,
+      "mileage_km": 37000,
+      "price": 13500,
+      "is_available": true,
+      "transmission": "Manual",
+      "fuel_type": "Petrol",
+      "image_url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/kia.png"
+    },
+    {
+      "id": "30",
+      "brand": "Nissan",
+      "model": "Juke",
+      "year": 2020,
+      "mileage_km": 30000,
+      "price": 17500,
+      "is_available": true,
+      "transmission": "Automatic",
+      "fuel_type": "Petrol",
+      "image_url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/nissan.png"
+    },
+    {
+      "id": "31",
+      "brand": "Peugeot",
+      "model": "308",
+      "year": 2018,
+      "mileage_km": 65000,
+      "price": 11000,
+      "is_available": true,
+      "transmission": "Manual",
+      "fuel_type": "Diesel",
+      "image_url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/peugeot.png"
+    },
+    {
+      "id": "32",
+      "brand": "Citroën",
+      "model": "C4",
+      "year": 2021,
+      "mileage_km": 23000,
+      "price": 18000,
+      "is_available": true,
+      "transmission": "Automatic",
+      "fuel_type": "Petrol",
+      "image_url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/citroen.png"
+    },
+    {
+      "id": "33",
+      "brand": "Opel",
+      "model": "Astra",
+      "year": 2019,
+      "mileage_km": 40000,
+      "price": 13000,
+      "is_available": true,
+      "transmission": "Manual",
+      "fuel_type": "Diesel",
+      "image_url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/opel.png"
+    },
+    {
+      "id": "34",
+      "brand": "Seat",
+      "model": "Leon",
+      "year": 2020,
+      "mileage_km": 28000,
+      "price": 16500,
+      "is_available": true,
+      "transmission": "Manual",
+      "fuel_type": "Petrol",
+      "image_url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/seat.png"
+    },
+    {
+      "id": "35",
+      "brand": "Skoda",
+      "model": "Octavia",
+      "year": 2017,
+      "mileage_km": 70000,
+      "price": 12500,
+      "is_available": false,
+      "transmission": "Automatic",
+      "fuel_type": "Diesel",
+      "image_url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/skoda.png"
+    },
+    {
+      "id": "36",
+      "brand": "Mercedes",
+      "model": "B-Class",
+      "year": 2022,
+      "mileage_km": 16000,
+      "price": 32500,
+      "is_available": true,
+      "transmission": "Automatic",
+      "fuel_type": "Hybrid",
+      "image_url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/mercedes-benz.png"
+    },
+    {
+      "id": "37",
+      "brand": "Volvo",
+      "model": "S60",
+      "year": 2018,
+      "mileage_km": 59000,
+      "price": 18500,
+      "is_available": true,
+      "transmission": "Automatic",
+      "fuel_type": "Petrol",
+      "image_url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/volvo.png"
+    },
+    {
+      "id": "38",
+      "brand": "Mazda",
+      "model": "3",
+      "year": 2020,
+      "mileage_km": 26000,
+      "price": 17000,
+      "is_available": true,
+      "transmission": "Manual",
+      "fuel_type": "Petrol",
+      "image_url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/mazda.png"
+    },
+    {
+      "id": "39",
+      "brand": "Honda",
+      "model": "Civic",
+      "year": 2019,
+      "mileage_km": 33000,
+      "price": 18500,
+      "is_available": true,
+      "transmission": "Automatic",
+      "fuel_type": "Petrol",
+      "image_url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/honda.png"
+    },
+    {
+      "id": "40",
+      "brand": "Suzuki",
+      "model": "Vitara",
+      "year": 2021,
+      "mileage_km": 21000,
+      "price": 19500,
+      "is_available": false,
+      "transmission": "Manual",
+      "fuel_type": "Hybrid",
+      "image_url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/suzuki.png"
+    },
+    {
+      "id": "41",
+      "brand": "Fiat",
+      "model": "Tipo",
+      "year": 2018,
+      "mileage_km": 58000,
+      "price": 10500,
+      "is_available": true,
+      "transmission": "Manual",
+      "fuel_type": "Diesel",
+      "image_url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/fiat.png"
+    },
+    {
+      "id": "42",
+      "brand": "Ford",
+      "model": "Mondeo",
+      "year": 2017,
+      "mileage_km": 75000,
+      "price": 14500,
+      "is_available": true,
+      "transmission": "Automatic",
+      "fuel_type": "Diesel",
+      "image_url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/ford.png"
+    },
+    {
+      "id": "43",
+      "brand": "Volkswagen",
+      "model": "Passat",
+      "year": 2020,
+      "mileage_km": 31000,
+      "price": 22500,
+      "is_available": true,
+      "transmission": "Automatic",
+      "fuel_type": "Diesel",
+      "image_url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/volkswagen.png"
+    },
+    {
+      "id": "44",
+      "brand": "Toyota",
+      "model": "Auris",
+      "year": 2019,
+      "mileage_km": 35000,
+      "price": 16500,
+      "is_available": false,
+      "transmission": "Automatic",
+      "fuel_type": "Hybrid",
+      "image_url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/toyota.png"
+    },
+    {
+      "id": "45",
+      "brand": "Renault",
+      "model": "Kadjar",
+      "year": 2021,
+      "mileage_km": 24000,
+      "price": 20500,
+      "is_available": true,
+      "transmission": "Manual",
+      "fuel_type": "Petrol",
+      "image_url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/renault.png"
+    },
+    {
+      "id": "46",
+      "brand": "Audi",
+      "model": "Q2",
+      "year": 2019,
+      "mileage_km": 39000,
+      "price": 21500,
+      "is_available": true,
+      "transmission": "Automatic",
+      "fuel_type": "Petrol",
+      "image_url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/audi.png"
+    },
+    {
+      "id": "47",
+      "brand": "BMW",
+      "model": "X1",
+      "year": 2020,
+      "mileage_km": 28000,
+      "price": 26500,
+      "is_available": true,
+      "transmission": "Automatic",
+      "fuel_type": "Diesel",
+      "image_url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/bmw.png"
+    },
+    {
+      "id": "48",
+      "brand": "Hyundai",
+      "model": "Kona",
+      "year": 2021,
+      "mileage_km": 22000,
+      "price": 21500,
+      "is_available": true,
+      "transmission": "Automatic",
+      "fuel_type": "Hybrid",
+      "image_url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/hyundai.png"
+    },
+    {
+      "id": "49",
+      "brand": "Kia",
+      "model": "Sportage",
+      "year": 2018,
+      "mileage_km": 58000,
+      "price": 15500,
+      "is_available": false,
+      "transmission": "Manual",
+      "fuel_type": "Diesel",
+      "image_url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/kia.png"
+    },
+    {
+      "id": "50",
+      "brand": "Nissan",
+      "model": "Qashqai",
+      "year": 2020,
+      "mileage_km": 30000,
+      "price": 22500,
+      "is_available": true,
+      "transmission": "Automatic",
+      "fuel_type": "Petrol",
+      "image_url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/nissan.png"
+    },
+    {
+      "id": "9e7e",
+      "brand": "Ferrari",
+      "model": "F430 - scuderia",
+      "year": 2008,
+      "mileage_km": 89561,
+      "price": 127003,
+      "is_available": true,
+      "transmission": "Manual",
+      "fuel_type": "Petrol",
+      "image_url": "https://cdn.ferrari.com/cms/network/media/img/resize/5dbf558db6fd1830814ed1a0-ferrari-430-scuderia-2007-share?width=1080"
+    },
+    {
+      "id": "0c15",
+      "brand": "chevrolet",
+      "model": "camaro",
+      "year": 2007,
+      "mileage_km": 24352,
+      "price": 97806,
+      "is_available": true,
+      "transmission": "automatic",
+      "fuel_type": "petrol",
+      "image_url": "https://m.media-amazon.com/images/I/71s1jn-F5-L._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": "ed08",
+      "brand": "porsche",
+      "model": "911",
+      "year": 1963,
+      "mileage_km": 34589,
+      "price": 67548,
+      "is_available": true,
+      "transmission": "Manual",
+      "fuel_type": "Petrol",
+      "image_url": "https://galdierirent.it/wp-content/uploads/2023/09/porche-911-gr-1-1920x1080.jpg"
+    },
+    {
+      "id": "fb18",
+      "brand": "alfa romeo",
+      "model": "33 stradale",
+      "year": 2025,
+      "mileage_km": 12,
+      "price": 255678,
+      "is_available": true,
+      "transmission": "Automatic",
+      "fuel_type": "Electric",
+      "image_url": "https://cdn.brandini.it/cover-prod/upload-681b39c6a537d9.11841039.jpg"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "username": "admin",
+      "email": "admin@email.com",
+      "password": "admin",
+      "role": "admin"
+    },
+    {
+      "id": "2",
+      "username": "client",
+      "email": "client@email.com",
+      "password": "client",
+      "role": "client"
+    },
+    {
+      "id": "9a44",
+      "username": "franko",
+      "email": "franko@email.com",
+      "password": "f",
+      "confirmPassword": "f",
+      "role": "client"
+    },
+    {
+      "id": "b8c7",
+      "username": "ondina",
+      "email": "ondina@email.com",
+      "password": "o",
+      "confirmPassword": "o",
+      "role": "client"
+    },
+    {
+      "id": "224e",
+      "username": "Stelio",
+      "email": "stelio@email.com",
+      "password": "s",
+      "confirmPassword": "s",
+      "role": "client"
+    },
+    {
+      "id": "f6ae",
+      "username": "nives",
+      "email": "nives@email.com",
+      "password": "n",
+      "confirmPassword": "n",
+      "role": "client"
+    },
+    {
+      "id": "d350",
+      "username": "vale",
+      "email": "vale@email.com",
+      "password": "franco",
+      "confirmPassword": "franco",
+      "role": "client"
+    }
+  ],
+  "orders": [
+    {
+      "id": "c88c",
+      "userId": "9a44",
+      "item": [
+        {
+          "id": "5",
+          "brand": "Renault",
+          "model": "Clio",
+          "year": 2020,
+          "mileage_km": 30000,
+          "price": 12500,
+          "is_available": true,
+          "transmission": "Manual",
+          "fuel_type": "Petrol",
+          "image_url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/renault.png",
+          "quantity": 1
+        },
+        {
+          "id": "2",
+          "brand": "Ford",
+          "model": "Focus",
+          "year": 2019,
+          "mileage_km": 45000,
+          "price": 13500,
+          "is_available": true,
+          "transmission": "Manual",
+          "fuel_type": "Diesel",
+          "image_url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/ford.png",
+          "quantity": 1
+        }
+      ],
+      "createdAt": "2025-12-23T17:52:00.460Z"
+    },
+    {
+      "id": "13c7",
+      "userId": "b8c7",
+      "item": [
+        {
+          "id": "9",
+          "brand": "Kia",
+          "model": "Rio",
+          "year": 2020,
+          "mileage_km": 34000,
+          "price": 11000,
+          "is_available": true,
+          "transmission": "Manual",
+          "fuel_type": "Petrol",
+          "image_url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/kia.png",
+          "quantity": 1
+        }
+      ],
+      "createdAt": "2025-12-23T18:39:02.863Z"
+    },
+    {
+      "id": "d239",
+      "userId": "9a44",
+      "item": [
+        {
+          "id": "1",
+          "brand": "Fiat",
+          "model": "Panda",
+          "year": 2020,
+          "mileage_km": 35000,
+          "price": 11500,
+          "is_available": true,
+          "transmission": "Manual",
+          "fuel_type": "Petrol",
+          "image_url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/fiat.png",
+          "quantity": 6
+        }
+      ],
+      "createdAt": "2025-12-24T15:55:30.183Z"
+    },
+    {
+      "id": "2e39",
+      "userId": "b8c7",
+      "item": [
+        {
+          "id": "16",
+          "brand": "Mercedes",
+          "model": "A-Class",
+          "year": 2022,
+          "mileage_km": 12000,
+          "price": 31500,
+          "is_available": true,
+          "transmission": "Automatic",
+          "fuel_type": "Petrol",
+          "image_url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/mercedes-benz.png",
+          "quantity": 2
+        }
+      ],
+      "createdAt": "2025-12-24T16:30:34.118Z"
+    },
+    {
+      "id": "c214",
+      "userId": "b8c7",
+      "item": [
+        {
+          "id": "1",
+          "brand": "Fiat",
+          "model": "Panda",
+          "year": 2020,
+          "mileage_km": 35000,
+          "price": 11500,
+          "is_available": true,
+          "transmission": "Manual",
+          "fuel_type": "Petrol",
+          "image_url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/fiat.png",
+          "quantity": 2
+        },
+        {
+          "id": "2",
+          "brand": "Ford",
+          "model": "Focus",
+          "year": 2019,
+          "mileage_km": 45000,
+          "price": 13500,
+          "is_available": true,
+          "transmission": "Manual",
+          "fuel_type": "Diesel",
+          "image_url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/ford.png",
+          "quantity": 3
+        }
+      ],
+      "createdAt": "2025-12-24T16:40:20.160Z"
+    },
+    {
+      "id": "75ff",
+      "userId": "b8c7",
+      "item": [
+        {
+          "id": "34",
+          "brand": "Seat",
+          "model": "Leon",
+          "year": 2020,
+          "mileage_km": 28000,
+          "price": 16500,
+          "is_available": true,
+          "transmission": "Manual",
+          "fuel_type": "Petrol",
+          "image_url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/seat.png",
+          "quantity": 7
+        }
+      ],
+      "createdAt": "2025-12-24T16:48:02.142Z"
+    },
+    {
+      "id": "89ff",
+      "userId": "224e",
+      "item": [
+        {
+          "id": "9e7e",
+          "brand": "Ferrari",
+          "model": "F430 - scuderia",
+          "year": "2007",
+          "mileage_km": "80000",
+          "price": "127000",
+          "is_available": true,
+          "transmission": "Manual",
+          "fuel_type": "Petrol",
+          "image_url": "https://cdn.ferrari.com/cms/network/media/img/resize/5dbf558db6fd1830814ed1a0-ferrari-430-scuderia-2007-share?width=1080",
+          "quantity": 10
+        }
+      ],
+      "createdAt": "2025-12-24T17:39:50.572Z"
+    },
+    {
+      "id": "dc05",
+      "userId": "b8c7",
+      "item": [
+        {
+          "id": "0c15",
+          "brand": "chevrolet",
+          "model": "camaro",
+          "year": "2007",
+          "mileage_km": "24352",
+          "price": "97806",
+          "is_available": true,
+          "transmission": "Manual",
+          "fuel_type": "Petrol",
+          "image_url": "https://m.media-amazon.com/images/I/71s1jn-F5-L._AC_UF1000,1000_QL80_.jpg",
+          "quantity": 1
+        },
+        {
+          "id": "39",
+          "brand": "Honda",
+          "model": "Civic",
+          "year": 2019,
+          "mileage_km": 33000,
+          "price": 18500,
+          "is_available": true,
+          "transmission": "Automatic",
+          "fuel_type": "Petrol",
+          "image_url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/honda.png",
+          "quantity": 2
+        }
+      ],
+      "createdAt": "2025-12-28T11:31:49.105Z"
+    },
+    {
+      "id": "85ce",
+      "userId": "b8c7",
+      "item": [
+        {
+          "id": "2",
+          "brand": "Ford",
+          "model": "Focus",
+          "year": 2019,
+          "mileage_km": 45000,
+          "price": 13500,
+          "is_available": true,
+          "transmission": "Manual",
+          "fuel_type": "Diesel",
+          "image_url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/ford.png",
+          "quantity": 1
+        },
+        {
+          "id": "3",
+          "brand": "Volkswagen",
+          "model": "Golf",
+          "year": 2021,
+          "mileage_km": 22000,
+          "price": 19500,
+          "is_available": true,
+          "transmission": "Automatic",
+          "fuel_type": "Petrol",
+          "image_url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/volkswagen.png",
+          "quantity": 1
+        }
+      ],
+      "createdAt": "2025-12-28T11:33:23.206Z"
+    },
+    {
+      "id": "07aa",
+      "userId": "9a44",
+      "item": [
+        {
+          "id": "3",
+          "brand": "Volkswagen",
+          "model": "Golf",
+          "year": 2021,
+          "mileage_km": 22000,
+          "price": 19500,
+          "is_available": true,
+          "transmission": "Automatic",
+          "fuel_type": "Petrol",
+          "image_url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/volkswagen.png",
+          "quantity": 4
+        },
+        {
+          "id": "1",
+          "brand": "Fiat",
+          "model": "Panda",
+          "year": 2020,
+          "mileage_km": 35000,
+          "price": 11500,
+          "is_available": true,
+          "transmission": "Manual",
+          "fuel_type": "Petrol",
+          "image_url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/fiat.png",
+          "quantity": 2
+        },
+        {
+          "id": "6",
+          "brand": "Audi",
+          "model": "A3",
+          "year": 2022,
+          "mileage_km": 15000,
+          "price": 25500,
+          "is_available": true,
+          "transmission": "Automatic",
+          "fuel_type": "Diesel",
+          "image_url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/audi.png",
+          "quantity": 2
+        },
+        {
+          "id": "5",
+          "brand": "Renault",
+          "model": "Clio",
+          "year": 2020,
+          "mileage_km": 30000,
+          "price": 12500,
+          "is_available": true,
+          "transmission": "Manual",
+          "fuel_type": "Petrol",
+          "image_url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/renault.png",
+          "quantity": 1
+        },
+        {
+          "id": "11",
+          "brand": "Peugeot",
+          "model": "208",
+          "year": 2021,
+          "mileage_km": 21000,
+          "price": 16500,
+          "is_available": true,
+          "transmission": "Automatic",
+          "fuel_type": "Petrol",
+          "image_url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/peugeot.png",
+          "quantity": 3
+        },
+        {
+          "id": "17",
+          "brand": "Volvo",
+          "model": "V40",
+          "year": 2017,
+          "mileage_km": 70000,
+          "price": 14500,
+          "is_available": true,
+          "transmission": "Automatic",
+          "fuel_type": "Diesel",
+          "image_url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/volvo.png",
+          "quantity": 8
+        }
+      ],
+      "createdAt": "2025-12-30T11:25:59.600Z"
+    },
+    {
+      "id": "6c2d",
+      "userId": "9a44",
+      "item": [
+        {
+          "id": "0c15",
+          "brand": "chevrolet",
+          "model": "camaro",
+          "year": "2007",
+          "mileage_km": "24352",
+          "price": "97806",
+          "is_available": true,
+          "transmission": "Manual",
+          "fuel_type": "Petrol",
+          "image_url": "https://m.media-amazon.com/images/I/71s1jn-F5-L._AC_UF1000,1000_QL80_.jpg",
+          "quantity": 1
+        }
+      ],
+      "createdAt": "2025-12-30T20:00:47.212Z"
+    },
+    {
+      "id": "b84c",
+      "userId": "9a44",
+      "item": [
+        {
+          "id": "16",
+          "brand": "Mercedes",
+          "model": "A-Class",
+          "year": 2022,
+          "mileage_km": 12000,
+          "price": 31500,
+          "is_available": true,
+          "transmission": "Automatic",
+          "fuel_type": "Petrol",
+          "image_url": "https://raw.githubusercontent.com/filippofilip95/car-logos-dataset/master/logos/optimized/mercedes-benz.png",
+          "quantity": 1
+        }
+      ],
+      "createdAt": "2025-12-30T21:27:44.108Z"
+    },
+    {
+      "id": "bce1",
+      "userId": "224e",
+      "item": [
+        {
+          "id": "ed08",
+          "brand": "porsche",
+          "model": "911",
+          "year": "1963",
+          "mileage_km": "34500",
+          "price": "67548",
+          "is_available": true,
+          "transmission": "Manual",
+          "fuel_type": "Petrol",
+          "image_url": "https://galdierirent.it/wp-content/uploads/2023/09/porche-911-gr-1-1920x1080.jpg",
+          "quantity": 3
+        }
+      ],
+      "createdAt": "2025-12-31T12:49:02.490Z"
+    },
+    {
+      "id": "8120",
+      "userId": "f6ae",
+      "item": [
+        {
+          "id": "fb18",
+          "brand": "alfa romeo",
+          "model": "33 stradale",
+          "year": 2025,
+          "mileage_km": 0,
+          "price": 253466,
+          "is_available": true,
+          "transmission": "Automatic",
+          "fuel_type": "Electric",
+          "image_url": "https://cdn.brandini.it/cover-prod/upload-681b39c6a537d9.11841039.jpg",
+          "quantity": 2
+        }
+      ],
+      "createdAt": "2026-01-03T16:26:07.515Z"
+    },
+    {
+      "id": "762a",
+      "userId": "d350",
+      "item": [
+        {
+          "id": "9e7e",
+          "brand": "Ferrari",
+          "model": "F430 - scuderia",
+          "year": 2008,
+          "mileage_km": 89561,
+          "price": 127003,
+          "is_available": true,
+          "transmission": "Manual",
+          "fuel_type": "Petrol",
+          "image_url": "https://cdn.ferrari.com/cms/network/media/img/resize/5dbf558db6fd1830814ed1a0-ferrari-430-scuderia-2007-share?width=1080",
+          "quantity": 1
+        },
+        {
+          "id": "ed08",
+          "brand": "porsche",
+          "model": "911",
+          "year": 1963,
+          "mileage_km": 34589,
+          "price": 67548,
+          "is_available": true,
+          "transmission": "Manual",
+          "fuel_type": "Petrol",
+          "image_url": "https://galdierirent.it/wp-content/uploads/2023/09/porche-911-gr-1-1920x1080.jpg",
+          "quantity": 2
+        }
+      ],
+      "createdAt": "2026-01-04T14:06:39.637Z"
+    }
+  ]
+}
